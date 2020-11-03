@@ -1,0 +1,17 @@
+E:\软件开发\Project\SpruceUp\SpruceUp\bin\x64\Debug\SpruceUp.exe.config
+E:\软件开发\Project\SpruceUp\SpruceUp\bin\x64\Debug\SpruceUp.exe
+E:\软件开发\Project\SpruceUp\SpruceUp\bin\x64\Debug\SpruceUp.pdb
+E:\软件开发\Project\SpruceUp\SpruceUp\bin\x64\Debug\IrisSkin4.dll
+E:\软件开发\Project\SpruceUp\SpruceUp\obj\x64\Debug\SpruceUp.FrmAddType.resources
+E:\软件开发\Project\SpruceUp\SpruceUp\obj\x64\Debug\SpruceUp.FrmMian.resources
+E:\软件开发\Project\SpruceUp\SpruceUp\obj\x64\Debug\SpruceUp.FrmtAddDetails.resources
+E:\软件开发\Project\SpruceUp\SpruceUp\obj\x64\Debug\SpruceUp.Properties.Resources.resources
+E:\软件开发\Project\SpruceUp\SpruceUp\obj\x64\Debug\SpruceUp.Report.resources
+E:\软件开发\Project\SpruceUp\SpruceUp\obj\x64\Debug\SpruceUp.SelectDetails.resources
+E:\软件开发\Project\SpruceUp\SpruceUp\obj\x64\Debug\SpruceUp.csproj.GenerateResource.Cache
+E:\软件开发\Project\SpruceUp\SpruceUp\obj\x64\Debug\SpruceUp.exe
+E:\软件开发\Project\SpruceUp\SpruceUp\obj\x64\Debug\SpruceUp.pdb
+E:\装修明细软件\SpruceUp.exe.config
+E:\装修明细软件\SpruceUp.exe
+E:\装修明细软件\SpruceUp.pdb
+E:\软件开发\Project\SpruceUp\SpruceUp\bin\Debug\SpruceUp.exe.config
